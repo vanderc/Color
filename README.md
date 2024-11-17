@@ -1,12 +1,8 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote this to show what I have learned about TypeScript. I used it to create a basic drawing app which allows you to draw and change the color of what your drawing. 
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/hwtSrRt1fX4)
 
