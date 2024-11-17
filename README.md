@@ -8,21 +8,20 @@ I wrote this to show what I have learned about TypeScript. I used it to create a
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- Visual Studio Code
+- TypeScript
+- HTML
+- node.js
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Countentful](https://www.contentful.com/blog/what-is-typescript-and-why-should-you-use-it/)
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/typescript-new-project)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- I could add a function to save the drawing. 
+- I could add a function to change the shape of the drawing. 
