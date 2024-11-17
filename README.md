@@ -17,7 +17,7 @@ I wrote this to show what I have learned about TypeScript. I used it to create a
 # Useful Websites
 
 
-- [Countentful](https://www.contentful.com/blog/what-is-typescript-and-why-should-you-use-it/)
+- [Contentful](https://www.contentful.com/blog/what-is-typescript-and-why-should-you-use-it/)
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/typescript-new-project)
 
 # Future Work
